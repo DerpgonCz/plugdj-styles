@@ -2,11 +2,11 @@
     "room": "Derpgon's Derpy Mansion",
     "author": "DerpgonCz",
     "icon": "http://images2.wikia.nocookie.net/date-a-live/images/1/16/Yoshino1.png",
-    "css": null,
+    "css": "https://raw.githubusercontent.com/DerpgonCz/plugdj-styles/master/derpgoncz/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
-        "allowAutojoin": true,
+        "allowAutojoin": false,
         "allowAutograb": true,
         "allowSmartVote": true,
         "allowEmotes": true,
